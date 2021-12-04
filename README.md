@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @averillc
-- 👀 I have experience with Python, R, and SQL, I love the world of data, and have some experiencing building Databases in Docker.
+- 👀 I have experience with Python, R, and SQL and work full-time in higher education. I love the world of data, and have some experiencing building Databases in Docker.
 - 🌱 I’m currently wading through web development since my only experience was self-taught HTML and I'm curious about front-end customization.
 - 💞️ I’m looking to collaborate on anything that can push me further.
 
